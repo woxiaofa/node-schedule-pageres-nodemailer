@@ -34,7 +34,7 @@ klren0312的https://github.com/klren0312/NodejsGetScreenshotSend
 
 1.需要node环境（网上很多教程）
 2.下载package.json和index.js到一个文件夹
-3.在这个目录下 node index.js 就可以执行了
+3.在这个目录下npm install 然后运行 node index.js 就可以执行了
 
 ```
 
